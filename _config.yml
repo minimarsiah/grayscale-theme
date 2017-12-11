@@ -14,10 +14,10 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: istagram
+  - title: instagram
     url: https://instagram.com/minimarsiah
   - title: facebook
-    url:
+    url: http://facebook.com/minimarsiah
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
