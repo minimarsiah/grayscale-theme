@@ -1,4 +1,12 @@
 # Site settings
+<html>
+    <head>
+     <title>Ukuran Font</title>
+    </head>
+    <body>
+     <font size="1">Mini Marsiah 1</font><br>
+    </body>
+    </html>
 title: Mini Marsiah
 email: marsiah30@gmail.com
 url: https://minimarsiah.github.io
